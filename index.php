@@ -86,9 +86,9 @@
 <body>
    <div id="box">
         <div id="left">
-            <img id="foto" class="rounded" src="./img/Foto pessoal.png" alt="Foto Pessoal">    
+            <img id="foto" class="rounded" src="./img/Foto pessoal.png" alt="Foto Pessoal">  
         </div>
-        <div id="right"> 
+        <div id="right">
             <h1>Sobre mim...</h1>
             <div id="about">
                 Meu nome é Luis Fernando, tenho 16 anos, gosto de praticar esportes como futebol, basquete e vôlei.
