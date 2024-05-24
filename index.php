@@ -86,8 +86,8 @@
 <body>
    <div id="box">
         <div id="left">
-            <img id="foto" class="rounded" src="./img/Foto pessoal.png" alt="Foto Pessoal">  
-        </div>
+            <img id="foto" class="rounded" src="./img/Foto pessoal.png" alt="Foto Pessoal">
+         </div>
         <div id="right">
             <h1>Sobre mim...</h1>
             <div id="about">
